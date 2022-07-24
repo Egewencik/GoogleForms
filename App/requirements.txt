@@ -1,5 +1,5 @@
 selenium
-beautifulsoup4
+bs4
 string-color
 prompt_toolkit==1.0.14
 SelectMenu
