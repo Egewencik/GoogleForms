@@ -133,7 +133,7 @@ def getanswer():
 
         # Find Answers
         sleep(1)
-        driver.get("https://docs.google.com/forms/d/e/1FAIpQLSdiwAWqBjTPQfAYiiK98Ttex6QRjJ7lAhA7CGU4wTlItmBShw/viewscore?viewscore=AE0zAgAtBzriNp-WZEzlULNAhMQnSOioffHO0OfkO7r3Yt10T4jFK6-rTXJ4rpgXebUKplQ")
+        driver.get("https://docs.google.com/forms/d/e/1FAIpQLSdcmJIOD-x4OefuEixQGtRfgFa51kF_WuCoZtWe10gd_Wpu2Q/viewform")
         sleep(3)
 
 
